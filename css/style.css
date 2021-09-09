@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+    background-color: azure;
+    color: grey;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+ul{
+    list-style: none;
+}
